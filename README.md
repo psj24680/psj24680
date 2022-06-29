@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   
   ### `💚  🌱  💚`
 
-  <img src="https://img.shields.io/badge/JAVA-89A426?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JAVA%20SCRIPT-468010?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E">
-  <img src="https://img.shields.io/badge/MYSQL-7DA205?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-89A426?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/JAVA%20SCRIPT-468010?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"><br>
+  <img src="https://img.shields.io/badge/MYSQL-7DA205?style=for-the-badge&logo=MySQL&logoColor=white"><br>
   <img src="https://img.shields.io/badge/SPRING%20BOOT-0A6A05?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:7DA205,100:C5EA4D&height=150)
