@@ -12,19 +12,19 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF" />
   
   ### `Back`
-  <img src="https://img.shields.io/badge/JAVA-89A426?style=for-the-badge"><br>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=FFFFFF"><br>
+  <img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF"><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF">
   
   ### `DB`
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" /><br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=FFFFFF" /><br>
+  <img src="https://img.shields.io/badge/MSSQL-0078D4?style=for-the-badge&logo=MSSQL&logoColor=FFFFFF" /><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" />
   
   ### `IDE`
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=FFFFFF" /><br>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" /><br>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=FFFFFF" /><br>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" /><br>
   <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=FFFFFF" /><br>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" />
   
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:7DA205,100:C5EA4D&height=150)
   
